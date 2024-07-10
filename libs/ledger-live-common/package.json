@@ -169,7 +169,7 @@
     "@ledgerhq/wallet-api-core": "^1.2.0",
     "@ledgerhq/wallet-api-server": "^1.2.0",
     "@solana/spl-token": "^0.3.7",
-    "@solana/web3.js": "1.77.3",
+    "@solana/web3.js": "1.77.4",
     "@stacks/network": "1.2.2",
     "@stacks/transactions": "1.3.5",
     "@stricahq/bip32ed25519": "^1.0.3",
@@ -190,7 +190,7 @@
     "@zondax/ledger-icp": "^0.7.0",
     "@zondax/ledger-stacks": "^1.0.2",
     "async": "^3.2.3",
-    "axios": "0.26.1",
+    "axios": "0.28.0",
     "axios-retry": "^3.2.4",
     "bchaddrjs": "^0.5.2",
     "bech32": "^1.1.3",
@@ -228,7 +228,7 @@
     "json-rpc-2.0": "^0.2.19",
     "jwt-decode": "^3.1.2",
     "lodash": "^4.17.21",
-    "minimatch": "^5.1.0",
+    "minimatch": "^10.0.1",
     "near-api-js": "^0.44.2",
     "numeral": "^2.0.6",
     "object-hash": "^2.2.0",
@@ -300,6 +300,6 @@
     "ts-jest": "^28.0.5",
     "ts-node": "^10.4.0",
     "uuid": "^8.3.2",
-    "ws": "7"
+    "ws": "8"
   }
 }

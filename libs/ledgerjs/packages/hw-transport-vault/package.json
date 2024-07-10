@@ -31,8 +31,8 @@
     "@ledgerhq/hw-transport": "workspace:^",
     "@ledgerhq/hw-transport-http": "workspace:^",
     "@ledgerhq/logs": "workspace:^",
-    "axios": "^0.26.1",
-    "ws": "^7.5.2"
+    "axios": "^0.28.0",
+    "ws": "^7.5.10"
   },
   "scripts": {
     "clean": "rimraf lib lib-es",
