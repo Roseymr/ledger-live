@@ -216,7 +216,7 @@
     "casper-js-sdk": "^2.15.2",
     "date-fns": "^2.23.0",
     "eip55": "^2.1.1",
-    "ethers": "5.7.2",
+    "ethers": "6.0.0",
     "expect": "^27.4.6",
     "fuse.js": "^6.6.2",
     "invariant": "^2.2.2",
