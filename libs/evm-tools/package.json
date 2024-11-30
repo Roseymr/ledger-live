@@ -47,7 +47,7 @@
   "dependencies": {
     "@ledgerhq/cryptoassets-evm-signatures": "workspace:^",
     "@ledgerhq/live-env": "workspace:^",
-    "axios": "1.7.7",
+    "axios": "1.7.8",
     "crypto-js": "4.2.0",
     "ethers": "5.7.2"
   },
