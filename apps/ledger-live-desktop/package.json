@@ -65,7 +65,7 @@
     "@ledgerhq/types-live": "workspace:^",
     "@polkadot/react-identicon": "2.11.3",
     "@sentry/electron": "^4.3.0",
-    "@sentry/node": "7.37.1",
+    "@sentry/node": "7.75.0",
     "@sentry/tracing": "7.37.1",
     "@tippyjs/react": "^4.2.6",
     "@trust/keyto": "^1.0.1",
